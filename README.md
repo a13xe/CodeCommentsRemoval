@@ -1,13 +1,9 @@
+![CodeSize](https://img.shields.io/github/languages/code-size/AlexeyLepov/CodeCommentsRemoval)
+![Repo](https://img.shields.io/github/repo-size/AlexeyLepov/CodeCommentsRemoval)
+![LastCommint](https://img.shields.io/github/last-commit/AlexeyLepov/CodeCommentsRemoval)
+
 CodeCommentsRemoval
 ==========================================================================================================================================
-
-<img width=25% align="right" src="https://github.com/AlexeyLepov/CodeCommentsRemoval/assets/77492646/015a4a51-bec7-4786-b8d3-1adc5ea0c096"/>
-
-![Repo](https://img.shields.io/github/repo-size/AlexeyLepov/CodeCommentsRemoval?style=for-the-badge)
-![LastCommint](https://img.shields.io/github/last-commit/AlexeyLepov/CodeCommentsRemoval?style=for-the-badge)
-![Releases](https://img.shields.io/github/downloads/AlexeyLepov/CodeCommentsRemoval/total?style=for-the-badge)
-
-## ` 💡 Features: `
 
 `1️⃣` These scripts is specifically designed for C-family languages ( `c`, `c++`, `c#`, `java`, etc. ) and `python` code files and may not work as intended with code from other programming languages.
 
